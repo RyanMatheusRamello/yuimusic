@@ -1,0 +1,434 @@
+
+
+{
+    "origin": "uncaughtException"
+}
+
+{
+    "origin": "uncaughtException"
+}
+
+{
+    "code": "MODULE_NOT_FOUND",
+    "requireStack": [
+        "E:\\yuimusic\\src\\Structures\\Client.js",
+        "E:\\yuimusic\\index.js"
+    ],
+    "origin": "uncaughtException"
+}
+
+{
+    "origin": "uncaughtException"
+}
+
+{
+    "origin": "uncaughtException"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "uncaughtException"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "code": "MODULE_NOT_FOUND",
+    "requireStack": [
+        "E:\\yuimusic\\src\\Commands\\Music\\queue.js",
+        "E:\\yuimusic\\src\\Structures\\Client.js",
+        "E:\\yuimusic\\index.js"
+    ],
+    "origin": "uncaughtException"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "name": "DiscordAPIError",
+    "message": "Unknown Message",
+    "method": "patch",
+    "path": "/channels/978051044711989268/messages/978124956678361088",
+    "code": 10008,
+    "httpStatus": 404,
+    "requestData": {
+        "json": {
+            "tts": false,
+            "embeds": [
+                {
+                    "title": "First Page",
+                    "type": "rich",
+                    "description": "This is the first page",
+                    "url": null,
+                    "timestamp": 0,
+                    "color": null,
+                    "fields": [],
+                    "thumbnail": null,
+                    "image": null,
+                    "author": null,
+                    "footer": {
+                        "text": "Page 1 / 2"
+                    }
+                }
+            ],
+            "components": [
+                {
+                    "components": [
+                        {
+                            "custom_id": "previousbtn",
+                            "disabled": true,
+                            "emoji": null,
+                            "label": "Previous",
+                            "style": 4,
+                            "type": 2,
+                            "url": null
+                        },
+                        {
+                            "custom_id": "nextbtn",
+                            "disabled": true,
+                            "emoji": null,
+                            "label": "Next",
+                            "style": 3,
+                            "type": 2,
+                            "url": null
+                        }
+                    ],
+                    "type": 1
+                }
+            ],
+            "flags": 64
+        },
+        "files": []
+    },
+    "origin": "unhandledRejection"
+}
+
+{
+    "name": "DiscordAPIError",
+    "message": "Unknown Message",
+    "method": "patch",
+    "path": "/channels/978051044711989268/messages/978126732433428521",
+    "code": 10008,
+    "httpStatus": 404,
+    "requestData": {
+        "json": {
+            "tts": false,
+            "embeds": [
+                {
+                    "title": "First Page",
+                    "type": "rich",
+                    "description": "This is the first page",
+                    "url": null,
+                    "timestamp": 0,
+                    "color": null,
+                    "fields": [],
+                    "thumbnail": null,
+                    "image": null,
+                    "author": null,
+                    "footer": {
+                        "text": "Page 1 / 2"
+                    }
+                }
+            ],
+            "components": [
+                {
+                    "components": [
+                        {
+                            "custom_id": "previousbtn",
+                            "disabled": true,
+                            "emoji": null,
+                            "label": "Previous",
+                            "style": 4,
+                            "type": 2,
+                            "url": null
+                        },
+                        {
+                            "custom_id": "nextbtn",
+                            "disabled": true,
+                            "emoji": null,
+                            "label": "Next",
+                            "style": 3,
+                            "type": 2,
+                            "url": null
+                        }
+                    ],
+                    "type": 1
+                }
+            ],
+            "flags": 64
+        },
+        "files": []
+    },
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "name": "DiscordAPIError",
+    "message": "Invalid Form Body\n9: Application command names must be unique",
+    "method": "put",
+    "path": "/applications/895042517505040444/guilds/892906589500084264/commands",
+    "code": 50035,
+    "httpStatus": 400,
+    "requestData": {
+        "json": [
+            {
+                "name": "config",
+                "description": "Um subcomando qualquer",
+                "options": [
+                    {
+                        "type": 1,
+                        "name": "addrole",
+                        "description": "Adiciona um cargo na WhiteList",
+                        "options": [
+                            {
+                                "type": 8,
+                                "name": "role",
+                                "description": "Cargo que vai ser permitido interagir na YuiBot",
+                                "required": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": 1,
+                        "name": "get",
+                        "description": "Retorna a configuração do servidor"
+                    },
+                    {
+                        "type": 1,
+                        "name": "removerole",
+                        "description": "Remove um cargo na WhiteList",
+                        "options": [
+                            {
+                                "type": 8,
+                                "name": "role",
+                                "description": "Cargo que vai ser permitido interagir na YuiBot",
+                                "required": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": 1,
+                        "name": "setchannel",
+                        "description": "Define o canal atual como o canal de pedido de música, toda mensagem será interpretada como pedido"
+                    }
+                ]
+            },
+            {
+                "name": "bassboost",
+                "description": "Adiciona o bassboost nas músicas",
+                "options": [
+                    {
+                        "type": 3,
+                        "name": "level",
+                        "description": "Nível do bassboost (none, low, medium, high ou um valor de 0 a 50)",
+                        "required": false
+                    }
+                ]
+            },
+            {
+                "name": "stop",
+                "description": "Para de tocar música"
+            },
+            {
+                "name": "loop",
+                "description": "Um subcomando qualquer",
+                "options": [
+                    {
+                        "type": 1,
+                        "name": "queue",
+                        "description": "Ativa a repetição para a playlist atual"
+                    },
+                    {
+                        "type": 1,
+                        "name": "track",
+                        "description": "Ativa a repetição para a música atual"
+                    }
+                ]
+            },
+            {
+                "name": "pause",
+                "description": "Pausa a música"
+            },
+            {
+                "name": "queue",
+                "description": "Mostra as músicas da playlist atual",
+                "options": [
+                    {
+                        "type": 4,
+                        "name": "page",
+                        "description": "Pagína que será exibida",
+                        "required": false,
+                        "min_value": 1
+                    }
+                ]
+            },
+            {
+                "name": "resume",
+                "description": "Despausa a música"
+            },
+            {
+                "name": "skip",
+                "description": "Avançar a música"
+            },
+            {
+                "name": "stats",
+                "description": "Mostra o dados para o player"
+            },
+            {
+                "name": "stop",
+                "description": "Para de tocar música"
+            },
+            {
+                "name": "volume",
+                "description": "Define o volume da música",
+                "options": [
+                    {
+                        "type": 4,
+                        "name": "volume",
+                        "description": "Uma descrição qualquer",
+                        "required": false,
+                        "min_value": 1,
+                        "max_value": 200
+                    }
+                ]
+            },
+            {
+                "name": "ping",
+                "description": "Verifica se o bot está online"
+            }
+        ],
+        "files": []
+    },
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}
+
+{
+    "origin": "unhandledRejection"
+}

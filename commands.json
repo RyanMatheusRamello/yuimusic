@@ -1,0 +1,176 @@
+[
+    {
+        "name": "config",
+        "description": "Um subcomando qualquer",
+        "options": [
+            {
+                "type": "SUB_COMMAND",
+                "name": "addrole",
+                "description": "Adiciona um cargo na WhiteList",
+                "options": [
+                    {
+                        "type": "ROLE",
+                        "name": "role",
+                        "description": "Cargo que vai ser permitido interagir na YuiBot",
+                        "required": true
+                    }
+                ]
+            },
+            {
+                "type": "SUB_COMMAND",
+                "name": "get",
+                "description": "Retorna a configuração do servidor"
+            },
+            {
+                "type": "SUB_COMMAND",
+                "name": "removerole",
+                "description": "Remove um cargo na WhiteList",
+                "options": [
+                    {
+                        "type": "ROLE",
+                        "name": "role",
+                        "description": "Cargo que vai ser permitido interagir na YuiBot",
+                        "required": true
+                    }
+                ]
+            },
+            {
+                "type": "SUB_COMMAND",
+                "name": "setchannel",
+                "description": "Define o canal atual como o canal de pedido de música, toda mensagem será interpretada como pedido"
+            }
+        ]
+    },
+    {
+        "name": "autoplay",
+        "description": "Ativa ou desativa a reprodução automatica"
+    },
+    {
+        "name": "bassboost",
+        "description": "Adiciona o bassboost nas músicas",
+        "options": [
+            {
+                "type": "STRING",
+                "name": "level",
+                "description": "Nível do bassboost (none, low, medium, high ou um valor de 0 a 50)"
+            }
+        ]
+    },
+    {
+        "name": "clear",
+        "description": "Remove todas as músicas da playlist"
+    },
+    {
+        "name": "join",
+        "description": "Entra no canal de voz que vc está"
+    },
+    {
+        "name": "leave",
+        "description": "Para de tocar música"
+    },
+    {
+        "name": "loop",
+        "description": "Um subcomando qualquer",
+        "options": [
+            {
+                "type": "SUB_COMMAND",
+                "name": "queue",
+                "description": "Ativa a repetição para a playlist atual"
+            },
+            {
+                "type": "SUB_COMMAND",
+                "name": "track",
+                "description": "Ativa a repetição para a música atual"
+            }
+        ]
+    },
+    {
+        "name": "move",
+        "description": "Move uma música da playlist",
+        "options": [
+            {
+                "type": "INTEGER",
+                "name": "from",
+                "description": "Posição da música que vai ser movida",
+                "required": true,
+                "min_value": 1
+            },
+            {
+                "type": "INTEGER",
+                "name": "to",
+                "description": "Posição onde a música vai ficar",
+                "required": true
+            }
+        ]
+    },
+    {
+        "name": "pause",
+        "description": "Pausa a música"
+    },
+    {
+        "name": "queue",
+        "description": "Mostra as músicas da playlist atual",
+        "options": [
+            {
+                "type": "INTEGER",
+                "name": "page",
+                "description": "Pagína que será exibida",
+                "min_value": 1
+            }
+        ]
+    },
+    {
+        "name": "remove",
+        "description": "Remove uma música da playlist",
+        "options": [
+            {
+                "type": "INTEGER",
+                "name": "index",
+                "description": "Index da música que vai ser removida",
+                "required": true,
+                "min_value": 1
+            }
+        ]
+    },
+    {
+        "name": "removeduplicate",
+        "description": "Remove músicas na playlist"
+    },
+    {
+        "name": "resume",
+        "description": "Despausa a música"
+    },
+    {
+        "name": "shuffle",
+        "description": "Aleatoriza as músicas da playlist"
+    },
+    {
+        "name": "skip",
+        "description": "Avançar a música"
+    },
+    {
+        "name": "stats",
+        "description": "Mostra o dados para o player"
+    },
+    {
+        "name": "stop",
+        "description": "Para de tocar música"
+    },
+    {
+        "name": "volume",
+        "description": "Define o volume da música",
+        "options": [
+            {
+                "type": "INTEGER",
+                "name": "volume",
+                "description": "Uma descrição qualquer",
+                "min_value": 1,
+                "max_value": 200
+            }
+        ]
+    },
+    {
+        "name": "ping",
+        "description": "Verifica se o bot está online"
+    }
+]

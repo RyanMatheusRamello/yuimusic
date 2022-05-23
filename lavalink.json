@@ -1,0 +1,174 @@
+[
+	{
+		"host": "lavalink.gaproknetwork.xyz",
+		"enable": false,
+		"secure": false,
+		"port": "2333",
+		"password": "gaproklavalink"
+	},
+	{
+		"host": "us1.lavalink.creavite.co",
+		"enable": false,
+		"secure": false,
+		"port": "20080",
+		"password": "auto.creavite.co"
+	},
+	{
+		"host": "lavalink.darrenofficial.com",
+		"enable": false,
+		"secure": false,
+		"port": "80",
+		"password": "anything as a password"
+	},
+	{
+		"host": "lavalink.islantay.tk",
+		"enable": true,
+		"secure": false,
+		"port": "8880",
+		"password": "waifufufufu"
+	},
+	{
+		"host": "uk1.buckytm.com",
+		"secure": false,
+		"enable": true,
+		"port": "28112",
+		"password": "f82263yh75f6r5"
+	},
+	{
+		"host": "weez-node.cf",
+		"secure": false,
+		"port": "2333",
+		"password": "FreeLava"
+	},
+	{
+		"host": "dislavalink.gq",
+		"enable": true,
+		"secure": false,
+		"port": "2760",
+		"password": "gemzandmj"
+	},
+	{
+		"host": "lancer.scathach.dev",
+		"enable": false,
+		"secure": false,
+		"port": "1945",
+		"password": "eulamoncrot"
+	},
+	{
+		"host": "usa.lavalink.mitask.tech",
+		"enable": true,
+		"secure": false,
+		"port": "2333",
+		"password": "lvserver"
+	},
+	{
+		"host": "194.163.153.236",
+		"enable": false,
+		"secure": false,
+		"port": "2222",
+		"password": "lavalinkplay"
+	},
+	{
+		"host": "181.214.231.105",
+		"enable": false,
+		"secure": false,
+		"port": "6665",
+		"password": "syslink"
+	},
+	{
+		"host": "lavalink.oops.wtf",
+		"enable": false,
+		"secure": false,
+		"port": "443",
+		"password": "www.freelavalink.ga"
+	},
+	{
+		"host": "usui-linku.kadantte.moe",
+		"secure": false,
+		"port": "443",
+		"password": "Usui#0256"
+	},
+	{
+		"host": "node01.marshalxp.xyz",
+		"secure": false,
+		"port": "443",
+		"password": "marshal"
+	},
+	{
+		"host": "node02.marshalxp.xyz",
+		"secure": false,
+		"port": "443",
+		"password": "marshal"
+	},
+	{
+		"host": "node03.marshalxp.xyz",
+		"secure": false,
+		"port": "443",
+		"password": "marshal"
+	},
+	{
+		"host": "node1.kartadharta.xyz",
+		"enable": false,
+		"secure": false,
+		"port": "443",
+		"password": "kdlavalink"
+	},
+	{
+		"host": "ssl.dislavalink.gq",
+		"secure": false,
+		"port": "443",
+		"password": "gemzandmj"
+	},
+	{
+		"host": "lavalink.roreef.com",
+		"secure": false,
+		"port": "443",
+		"password": "ATLAS01"
+	},
+	{
+		"host": "lavalink.synn.host",
+		"enable": false,
+		"secure": false,
+		"port": "443",
+		"password": "Binnic123!"
+	},
+	{
+		"host": "www.exlink.ml",
+		"enable": false,
+		"secure": false,
+		"port": "443",
+		"password": "exlava"
+	},
+	{
+		"host": "www.lavalinknodepublic.ml",
+		"enable": false,
+		"secure": false,
+		"port": "443",
+		"password": "mrextinctcodes"
+	},
+	{
+		"host": "www.lavalinknodepublic2.ml",
+		"secure": false,
+		"port": "443",
+		"password": "mrextinctcodes"
+	},
+	{
+		"host": "ssl.annnekkk.tech",
+		"enable": false,
+		"secure": false,
+		"port": "443",
+		"password": "lavafreefromannnekkk"
+	},
+	{
+		"host": "lava.devin-dev.xyz",
+		"secure": false,
+		"port": "3888",
+		"password": "ayraiscute"
+	},
+	{
+		"host": "lavalink.devin-dev.xyz",
+		"secure": false,
+		"port": "443",
+		"password": "lava123"
+	}
+]
